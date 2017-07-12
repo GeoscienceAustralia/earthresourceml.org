@@ -20,8 +20,8 @@
         <tr>
             <td>
                 <div id="ga-nav">
-                    <a href="/">EarthResourceML Home</a>
                     <a href="http://www.cgi-iugs.org/">CGI Home</a>
+					<a href="http://www.cgi-iugs.org/tech_collaboration/earthResourceML.html">EarthResourceML Home</a>
 					<a href="http://www.geosciml.org">GeoSciML</a>
                     <a href="http://resource.geosciml.org">Vocabularies</a>
                 </div>
