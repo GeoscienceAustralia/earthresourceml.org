@@ -4,9 +4,8 @@ EarthResourceML is an XML-based data transfer standard for the exchange of digit
 
 ---
 
-#### EarthResourceML - version 2.0
+### EarthResourceML - version 2.0
 The current version of EarthResourceML is version 2.0, released in October 2013.
-
 EarthResourceML v2.0 uses ISO and OGC data standards, including GML v3.2, SWE Common v2, and GeoSciML v3.2
   * [Documentation](/earthresourceml/2.0/doc/ERML_HTML_Documentation/) (html)
   * [Enterprise Architect UML project file](/earthresourceml/2.0/eap/) (eap)
@@ -14,7 +13,7 @@ EarthResourceML v2.0 uses ISO and OGC data standards, including GML v3.2, SWE Co
 
 ---
 
-#### EarthResourceML-Lite version 1.0
+### EarthResourceML-Lite version 1.0
 EarthResourceML-Lite is a model and schema for simple map services (eg, WMS and WFS Simple Features).  It is a abridged version of the full EarthResourceML modeland can be used to deliver simplified views on mineral occurrences and their commodities, mines, mining activities and mine waste products.
 
  * [Documentation](/earthresourceml-lite/1.0/doc/html/index.htm) (html)
@@ -23,7 +22,7 @@ EarthResourceML-Lite is a model and schema for simple map services (eg, WMS and 
 
 ---
 
-#### Previous versions of EarthResourceML
+### Previous versions of EarthResourceML
  * [version 1.1](/earthresourceml/1.1/)
 
 ---
