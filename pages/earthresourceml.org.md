@@ -9,7 +9,7 @@ The current version of EarthResourceML is version 2.0, released in October 2013.
 EarthResourceML v2.0 uses ISO and OGC data standards, including GML v3.2, SWE Common v2, and GeoSciML v3.2
   * [Documentation](/earthresourceml/2.0/doc/ERML_HTML_Documentation/) (html)
   * [Enterprise Architect UML project file](/earthresourceml/2.0/eap/) (eap)
-  * [XML schemas](/schemas.earthresourceml.org/2.0/) (xsd)
+  * [XML schemas](http://schemas.earthresourceml.org/2.0/) (xsd)
 
 ---
 
