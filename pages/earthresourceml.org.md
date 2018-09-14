@@ -15,15 +15,11 @@ EarthResourceML v2.0 uses ISO and OGC data standards, including GML v3.2, SWE Co
 
 ### EarthResourceML-Lite - version 2.0
 
-###  ![new](http://www.geosciml.org/theme/img/new.gif) [_EarthResourceML-Lite version 2.0.1 released - September 2018_](http://www.earthresourceml.org/earthresourceml-lite/2.0.1/)
-
 EarthResourceML-Lite is a model and schema for simple map services (eg, WMS and WFS Simple Features).  It is a abridged version of the full EarthResourceML modeland can be used to deliver simplified views on mineral occurrences and their commodities, mines, mining activities and mine waste products.
 
-The v2.0.1 release only corrects a minor omission in the MiningWasteView schema, but is otherwise the same as v2.0.0.
-
- * [Documentation](/earthresourceml-lite/2.0.1/documentation) (html)
+ * [Documentation](/earthresourceml-lite/2.0.0/documentation) (html)
  * [XML schema](http://schemas.earthresourceml.org/earthresourceml-lite/2.0/) (xsd)
- * [XML example documents](/earthresourceml-lite/2.0.1/examples) (xml)
+ * [XML example documents](/earthresourceml-lite/2.0.0/examples) (xml)
 
 ---
 
