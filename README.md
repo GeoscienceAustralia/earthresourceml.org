@@ -1,7 +1,7 @@
 # earthresourceml.org
 This repository contains all of the static website code for the [earthresourceml.org]([http://earthresourceml.org) website. It also includes:
 
-* [schemas.earthresourceml.org](http://schemas.earthresourceml.org)
+* [schemas.earthresourceml.org](http://schemas.earthresourceml.org)  
 
 ### Copyright & License
 This site's code and this repository are all copyright the [IUGS Commission for the Management and Application of Geoscience Information (CGI)](http://www.cgi-iugs.org/)
